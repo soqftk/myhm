@@ -1,3 +1,9 @@
+
+
+
+
+
+
 class Node:
     def __init__(self, next_node, prev_node, data) -> None:
         self.data = data
